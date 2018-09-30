@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="salir">salir</string>
+    <string name="jugar">jugar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="puntuacion">Puntuación: </string>
+</resources>
